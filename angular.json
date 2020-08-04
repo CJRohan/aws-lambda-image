@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aws-lambda"
+    }
+  },
+  "defaultProject": "aws-lambda",
+  "cli": {
+    "analytics": false
+  }
 }
