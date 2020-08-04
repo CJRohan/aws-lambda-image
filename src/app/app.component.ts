@@ -13,7 +13,7 @@ export class AppComponent {
   wrongFormat = false
   uploaded = false
   loader = false
-  imageLink = "No Image";
+  imageLink = "";
   message = "Colud Not Upload";
   image = new File([""], "null");
 
